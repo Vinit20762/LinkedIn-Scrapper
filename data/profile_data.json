@@ -1,0 +1,68 @@
+{
+    "name": "Vinit Raj Singh",
+    "url": "https://www.linkedin.com/in/vinit-raj-singh-0312b5286/",
+    "headline": "Google Cloud Arcade Facilitator'2025 | CSE'27 | Student at DIT UNIVERSITY",
+    "about": "Hello! I\u2019m Vinit \u2014 a Full-Stack SaaS Developer who loves combining software engineering with AI to build smart, automated, and user-friendly products.I focus on end-to-end SaaS development including architecture, APIs, databases, authentication, cloud deployment, and AI-based features like chatbots, document intelligence, and workflow automation. I enjoy building products that don\u2019t just work \u2014 but feel intuitive, modern, and impactful.My goal is to keep innovating with AI and contribute to products that help businesses scale faster with automation.Hello! I\u2019m Vinit \u2014 a Full-Stack SaaS Developer who loves combining software engineering with AI to build smart, automated, and user-friendly products.\n\nI focus on end-to-end SaaS development including architecture, APIs, databases, authentication, cloud deployment, and AI-based features like chatbots, document intelligence, and workflow automation. I enjoy building products that don\u2019t just work \u2014 but feel intuitive, modern, and impactful.\n\nMy goal is to keep innovating with AI and contribute to products that help businesses scale faster with automation.",
+    "experience": [
+        {
+            "company_name/designation": "Computer Society of India",
+            "duration/company_name": "1 yr 10 mos",
+            "designations": [
+                {
+                    "designation": "Technical Head",
+                    "duration": "Full-time",
+                    "location": "Sep 2025 to Present \u00b7 3 mos",
+                    "type": "Hybrid",
+                    "description": "Leading tech stuffs in CSI"
+                },
+                {
+                    "designation": "Member",
+                    "duration": "Feb 2024 to Sep 2025 \u00b7 1 yr 8 mos",
+                    "location": "",
+                    "type": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "company_name/designation": "Facilitator",
+            "duration/company_name": "Google Cloud Arcade Facilitator Program \u00b7 Full-time",
+            "designations": []
+        },
+        {
+            "company_name/designation": "Mentor",
+            "duration/company_name": "GDSC DITU",
+            "designations": []
+        },
+        {
+            "company_name/designation": "Java Developer",
+            "duration/company_name": "Oasis Infobyte \u00b7 Internship",
+            "designations": []
+        }
+    ],
+    "education": [
+        {
+            "college": "DIT UNIVERSITY",
+            "degree": "Bachelor of Technology - BTech, Computer Science",
+            "duration": "2023 - 2027",
+            "project/grade": "Grade: 8.43"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "Linux Fundamentals",
+            "institute": "LearnQuest",
+            "issued_date/Skills": "Issued Feb 2025"
+        },
+        {
+            "name": "Linux Fundamentals",
+            "institute": "LearnQuest",
+            "issued_date/Skills": "Issued Feb 2025"
+        },
+        {
+            "name": "Google Cloud Study Jam",
+            "institute": "Google Cloud Skills Boost",
+            "issued_date/Skills": "Skills: Google Cloud Platform (GCP)"
+        }
+    ]
+}
